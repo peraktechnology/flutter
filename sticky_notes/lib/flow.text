@@ -1,0 +1,11 @@
+//blog explanation flow!
+
+note_page.dart
+In the SQFlite demo first, we take a stateful class. and define a list
+which name is notes and a bool variable isLoading. after that we
+create a method refreshNotes() in which we pass isLoading is true and
+refresh readallnotes(),
+And pass this method to initstate(). In the BuildContext() we pass the Scaffold and use the property of the appbar. In the body, we pass a method which is buildNotes(), In this method, we pass StaggeredGridView.countBuilder() IN this weight we show all the card which is created, and if there is no card so it shows an empty screen.
+
+edit_note_page.dart
+
