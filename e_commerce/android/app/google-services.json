@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "716057128271",
+    "project_id": "seipecom",
+    "storage_bucket": "seipecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716057128271:android:ccc21455ad9b78e004293a",
+        "android_client_info": {
+          "package_name": "com.example.ecom_firebase_07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716057128271-1t7kouj79qv2oqmk3pcfpcjbu4sugfej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bZznuNFlP7Hes329Bsq3HCfIsntyvD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716057128271-1t7kouj79qv2oqmk3pcfpcjbu4sugfej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716057128271:android:7693e1a9cf69df3f04293a",
+        "android_client_info": {
+          "package_name": "com.example.ecom_firebase_user_07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716057128271-1t7kouj79qv2oqmk3pcfpcjbu4sugfej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bZznuNFlP7Hes329Bsq3HCfIsntyvD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716057128271-1t7kouj79qv2oqmk3pcfpcjbu4sugfej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716057128271:android:18807252cf945de204293a",
+        "android_client_info": {
+          "package_name": "com.example.ecom_user_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716057128271-eife24m9aijdv5g8fhnn1vo0d6207mdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecom_user_firebase",
+            "certificate_hash": "6c1f3df21e6c1f4ff8afdf721322884553d0e77e"
+          }
+        },
+        {
+          "client_id": "716057128271-1t7kouj79qv2oqmk3pcfpcjbu4sugfej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bZznuNFlP7Hes329Bsq3HCfIsntyvD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716057128271-1t7kouj79qv2oqmk3pcfpcjbu4sugfej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
