@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725434928480",
+    "project_id": "shopping-live-a5a2a",
+    "storage_bucket": "shopping-live-a5a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725434928480:android:45a7605b468e610939e205",
+        "android_client_info": {
+          "package_name": "com.example.shoppinglive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725434928480-kkfqb6uvtcph27n05itfb6p5tjn85v6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppinglive",
+            "certificate_hash": "1ef9d9a4a4e193c75ce1b21528e4b755cceafcee"
+          }
+        },
+        {
+          "client_id": "725434928480-ou6fe5vaf6m9skfkhem9ru0g18ldgj7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuu7rBCtE6o-I0PJpIfu484GaGmoatwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725434928480-ou6fe5vaf6m9skfkhem9ru0g18ldgj7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
