@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164740821233",
+    "project_id": "expense-ticker",
+    "storage_bucket": "expense-ticker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164740821233:android:0b6808a280917583837950",
+        "android_client_info": {
+          "package_name": "com.example.expense_ticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164740821233-6uoge3njd86t9bgkpavc7mqb693ef03o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNM2OpayAWJ9Y26x6iuD5q6u5gue9yNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164740821233-6uoge3njd86t9bgkpavc7mqb693ef03o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
