@@ -1,0 +1,8 @@
+{
+  "appTitle": "IT Books",
+  "buyOnPage": "Buy on this page",
+  "newBooksForReading": "New books for reading:",
+  "searchBookResult": "Results for {name}:",
+  "failedToOpenUrl": "Failed to open web",
+  "fillThisField": "Fill this field"
+}
