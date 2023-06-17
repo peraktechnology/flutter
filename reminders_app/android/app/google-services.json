@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "387656492796",
+    "project_id": "flutter-93dfe",
+    "storage_bucket": "flutter-93dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387656492796:android:ee66ae49c4160342935979",
+        "android_client_info": {
+          "package_name": "com.example.ios_reminders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387656492796-s2619uebbnv2d0rvp2dkqjktohsit5hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9MWowXqxjydY59onaIVndp7pASRqgm5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387656492796-s2619uebbnv2d0rvp2dkqjktohsit5hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387656492796-ovr8virsspd00nhtk5ejer2g6p5ndjul.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iosReminders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
