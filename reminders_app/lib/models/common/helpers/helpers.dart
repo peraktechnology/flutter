@@ -16,7 +16,7 @@ void showSnackBar(BuildContext context, String message) {
     content: Text(
       message,
       style: TextStyle(
-        color: Theme.of(context).accentColor,
+        color: Theme.of(context).hintColor,
       ),
     ),
     duration: const Duration(seconds: 1),

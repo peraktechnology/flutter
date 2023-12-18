@@ -47,7 +47,7 @@ dependencies:
   lottie: ^2.2.0
   permission_handler: ^10.2.0
   provider: ^6.0.5
-  slide_to_act: ^2.0.1
+  slide_to_act: ^2.0.2
 
 dev_dependencies:
   flutter_lints: ^2.0.0

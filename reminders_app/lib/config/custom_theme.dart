@@ -15,7 +15,7 @@ class CustomTheme extends ChangeNotifier {
   ThemeData darkTheme = ThemeData(
     scaffoldBackgroundColor: Colors.black,
     appBarTheme: const AppBarTheme(color: Colors.black),
-    accentColor: Colors.white,
+    hintColor: Colors.white,
     cardColor: const Color(0xFF1A191D),
     brightness: Brightness.dark,
     dividerColor: Colors.grey[600],
@@ -37,7 +37,7 @@ class CustomTheme extends ChangeNotifier {
 
   ThemeData lightTheme = ThemeData(
     scaffoldBackgroundColor: const Color(0xFFeeeeee),
-    accentColor: Colors.black,
+    hintColor: Colors.black,
     primaryColor: const Color(0xFFeeeeee),
     appBarTheme: const AppBarTheme(color: Color(0xFFeeeeee)),
     brightness: Brightness.light,
